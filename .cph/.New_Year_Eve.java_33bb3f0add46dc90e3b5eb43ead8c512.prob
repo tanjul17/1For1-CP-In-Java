@@ -1,0 +1,1 @@
+{"name":"Local: New_Year_Eve","url":"d:\\1For1-CP\\New_Year_Eve.java","tests":[{"id":1686131652916,"input":"3 4","output":"7"},{"id":1686131670365,"input":"6 6","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1For1-CP\\New_Year_Eve.java","group":"local","local":true}

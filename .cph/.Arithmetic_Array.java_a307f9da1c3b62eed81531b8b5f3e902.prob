@@ -1,0 +1,1 @@
+{"name":"Local: Arithmetic_Array","url":"d:\\1For1-CP\\Arithmetic_Array.java","tests":[{"id":1686233646772,"input":"4\n3\n1 1 1\n2\n1 2\n4\n8 4 6 2\n1\n-2","output":"0\n1\n16\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\1For1-CP\\Arithmetic_Array.java","group":"local","local":true}
